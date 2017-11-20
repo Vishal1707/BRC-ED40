@@ -1,0 +1,22 @@
+hash: e07cf10b3c9b445546a616d183254005b9d87ccad923a1f86f48b258fdfa3476
+updated: 2017-07-24T13:44:32.756770842Z
+imports:
+- name: github.com/gorilla/websocket
+  version: a69d9f6de432e2c6b296a947d8a5ee88f68522cf
+- name: github.com/gvalkov/golang-evdev
+  version: 87c03aa1a370124ec5a5fac733a629e0f9acd9a6
+- name: github.com/kardianos/osext
+  version: ae77be60afb1dcacde03767a8c37337fad28ac14
+- name: github.com/kardianos/service
+  version: f6635a45eccea31fd54922e3c1bf7e5e5a5df097
+- name: github.com/urfave/cli
+  version: 4b90d79a682b4bf685762c7452db20f2a676ecb2
+- name: golang.org/x/sys
+  version: c4489faa6e5ab84c0ef40d6ee878f7a030281f0f
+  subpackages:
+  - windows
+  - windows/registry
+  - windows/svc
+  - windows/svc/eventlog
+  - windows/svc/mgr
+testImports: []

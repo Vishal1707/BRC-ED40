@@ -1,0 +1,6 @@
+package: tom.wincor-nixdorf.com/BRC-ED40
+import:
+- package: github.com/gorilla/websocket
+- package: github.com/gvalkov/golang-evdev
+- package: github.com/kardianos/service
+- package: github.com/urfave/cli
